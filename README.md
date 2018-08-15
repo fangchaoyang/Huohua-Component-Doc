@@ -1,4 +1,4 @@
-# HuohuComponentDoc
+# HuohuaComponentDoc
 
 火花素材框架文档使用说明
 
